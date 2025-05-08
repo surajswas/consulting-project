@@ -1,0 +1,32 @@
+Email Analyzer Training Summary
+==============================
+
+Training Status: Trained
+Emails processed: 3000
+- Spam emails: 1012
+- Ham (normal) emails: 969
+- University notice emails: 1019
+
+Top spam keywords:
+- claim
+- home
+- account
+- close
+- name
+- piece
+- prize
+- movement
+- congratulations
+- suddenly
+
+Top university notice keywords:
+- home
+- away
+- everyone
+- participant
+- happy
+- university
+- cancellation
+- upcoming
+- choice
+- education

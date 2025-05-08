@@ -1,0 +1,12 @@
+flask
+flask-login
+flask-sqlalchemy
+flask-wtf
+email-validator
+gunicorn
+pandas
+psycopg2-binary
+trafilatura
+google-api-python-client
+google-auth-oauthlib
+openai
